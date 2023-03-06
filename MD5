@@ -1,9 +1,9 @@
-bdee8d8fb0b9eddf99f27082c56ccccd *DESCRIPTION
+91f8e484f700a2ad1f78a9170ce01cc3 *DESCRIPTION
 8a068ba66b0c5997c6a746fe04ddf9c0 *NAMESPACE
-d7909c229a61520b5e1a5375f1bc1376 *NEWS.md
+4ced13520298acb0ec10abfd0b6dcfb6 *NEWS.md
 e0361db01ab883995f5660ced3554aed *R/data.R
 e1f3430c93cc3b670cb1e029ff790409 *R/ggcentrality.R
-b092ed6b675f6188a035d0029d4acd34 *R/ggnetmap.R
+7fbfcc339c8196df85c8fef798c9cf8e *R/ggnetmap.R
 21105d6a1d300de1eb601353af252c35 *R/link_network_map.R
 01b025480c419bf2ba08dc72e6d6f49c *R/netmap.R
 3d923111bec097299646fa2d20a3e9d3 *R/netmap_plot.R
